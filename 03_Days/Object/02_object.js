@@ -58,4 +58,7 @@ console.log(Object.entries(regularuser)); // Returns an array of key-value pairs
 console.log(regularuser.hasOwnProperty("email")); // true
 
 
+//It more about object
+
+
 
